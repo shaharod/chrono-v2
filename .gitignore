@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+.venv/
+.env
+
+# OS
+.DS_Store
+
+# Logs & Drafts (Keep your scratchpad out of the code history)
+docs/version_history.txt
+*.xlsx
