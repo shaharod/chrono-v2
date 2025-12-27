@@ -7,5 +7,5 @@ __pycache__/
 .DS_Store
 
 # Logs & Drafts (Keep your scratchpad out of the code history)
-docs/version_history.txt
+docs/version_history.md
 *.xlsx
