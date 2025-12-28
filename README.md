@@ -1,4 +1,4 @@
-# Project Chrono (v2.0)
+# Project Chrono (v2.0.0)
 Managing medical care cycles with a robust SQL Server foundation.
 
 ## Project Overview
