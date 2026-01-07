@@ -145,7 +145,6 @@ def get_probation_dashboard(db: Session):
             delta = date.today() - p.last_picked_up_date
             days_overdue = delta.days
 
-            # Your Business Logic Rules:
             if days_overdue > 90:
                 status = "Removal"
             elif days_overdue > 60:
