@@ -2,7 +2,7 @@ from database import engine
 from sqlalchemy import text
 import models
 
-print("☢️  INITIATING NUCLEAR RESET...")
+print("INITIATING NUCLEAR RESET...")
 
 with engine.connect() as connection:
     # 1. KILL ALL FOREIGN KEYS
